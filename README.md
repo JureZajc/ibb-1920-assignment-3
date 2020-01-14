@@ -1,6 +1,6 @@
 # ibb-1920-assignment-3
 
-prerequirements:<br/>
+Prerequirements:<br/>
 -python 3.6<br/>
 -keras<br/>
 -cv2 <br/>
