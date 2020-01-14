@@ -12,7 +12,7 @@ from create_embeddings import create_model
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
-os.chdir('..')
+
 
 Input = Input(shape=(96, 96, 3))
 model = create_model(Input)
