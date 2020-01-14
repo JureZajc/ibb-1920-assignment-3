@@ -10,7 +10,7 @@ from keras_openface import utils
 from keras_openface.utils import LRN2D
 from create_embeddings import create_model
 
-#os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 os.chdir('..')
 
