@@ -17,7 +17,7 @@ from keras import backend as K
 from keras_openface import utils
 from keras_openface.utils import LRN2D
 
-#os.environ['CUDA_VISIBLE_DEVICES'] = '0'
+os.environ['CUDA_VISIBLE_DEVICES'] = '0'
 
 os.chdir('..')
 
